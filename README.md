@@ -1,8 +1,6 @@
-<table><tr><td valign="top" width="70%"><center>
+<table><tr><td valign="top" width="70%" height="360px">
 
 ## 👋 Hey! I'm Max, Python Developer.
-
-</center>
 
 - 💼 Working as a freelancer - successfully completed web developement projects with various clients.
 - 🚀 I'm studying Computer Science at the Lublin University of Technology.
@@ -10,16 +8,15 @@
 - 🌟 Member of [PyMasters](https://pymasters.pl/) - where we learn advanced Python skills by developing in a team using Git.
 - 👷🏻‍♂️ Currently contributing to [Reddit clone in Django](https://github.com/pymasterspl/reddit)
 - ❤️ I love writing in Python / Django by creating useful applications.
-- 🎮 Game developer in freetime - JavaScript and Godot (GDScript). 
+- 🎮 Game developer in freetime - JavaScript and Godot (GDScript).
   
- </td><td valign="top" width="30%"><center>
+ </td><td valign="top" width="30%" align="center">
 
 ## 🖥️ Fav Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,django,git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,godot,linux)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ps,html,css)](https://skillicons.dev)
-
-</center></tr></tr>
+</tr></tr>
 </table>
 <br>
 
