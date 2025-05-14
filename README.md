@@ -32,6 +32,18 @@
       </tr>
    </thead>
    <tbody align="center">
+        <tr>
+         <td><a href="https://github.com/maksmondeo/Twitter-bot/"><b>Twitter/X Bot</b></a></td>
+         <td><a href="https://github.com/maksmondeo/Twitter-bot/"><b>Source Code</b></a></td>
+         <td style="padding: 20px 0 20px 0;">
+
+[![My Skills](https://skillicons.dev/icons?i=django,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,docker)](https://skillicons.dev)
+         </td>
+         <td>
+            A fully-automated Twitter/X bot with a sleek React UI frontend, Django REST API backend, continuous tweet scheduling, media support, and real-time logging — all containerized with Docker.
+         </td>
+      </tr>
      <tr>
          <td><a href="https://github.com/pymasterspl/reddit/"><b>Reddit clone</b></a></td>
          <td><a href="https://github.com/pymasterspl/reddit/"><b>Source Code</b></a></td>
