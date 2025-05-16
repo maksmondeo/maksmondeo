@@ -7,8 +7,6 @@
 - 🛠️ Almost every day I practice algorythmic skills in Python by doing [Code-kata exercices](https://www.codewars.com/) which I store in [this](https://github.com/maksmondeo/code-kata) repo. 
 - 🌟 Member of [PyMasters](https://pymasters.pl/) - where we learn advanced Python skills by developing in a team using Git.
 - 👷🏻‍♂️ Currently contributing to [Reddit clone in Django](https://github.com/pymasterspl/reddit)
-- ❤️ I love writing in Python / Django by creating useful applications.
-- 🎮 Game developer in freetime - JavaScript and Godot (GDScript).
   
  </td><td valign="top" width="30%" align="center">
 
