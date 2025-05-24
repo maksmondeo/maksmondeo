@@ -1,6 +1,6 @@
 <table><tr><td valign="top" width="70%" height="360px">
 
-## 👋 Hey! I'm Max, Python Developer.
+## 👋 Hi, I'm Max – Junior Python/Django Developer.
 
 - 💼 Working as a freelancer - successfully completed web developement projects with various clients.
 - 🚀 I'm studying Computer Science at the Lublin University of Technology.
@@ -93,7 +93,6 @@
 </table>
   <br />
 
-### 🎨 &nbsp; Graphic design
-
-
-Besides programming, I've created numerous graphic design projects in **Photoshop**, which can be viewed on my [Instagram.](https://www.instagram.com/maksdesign.pl/)
+<!--
+Junior Python Developer | Django REST Framework | React | Git | CI/CD | Docker | REST APIs | Freelance Developer | Linux | PostgreSQL | Web Developer | Full-stack Developer | API integration
+-->
