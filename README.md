@@ -1,12 +1,13 @@
 <table><tr><td valign="top" width="70%" height="360px">
 
-## 👋 Hi, I'm Max – Junior Python/Django Developer.
+## 👋 Hi, I'm Max – Junior Python Developer.
 
-- 💼 Working as a freelancer - successfully completed web developement projects with various clients.
-- 🚀 I'm studying Computer Science at the Lublin University of Technology.
-- 🛠️ Almost every day I practice algorythmic skills in Python by doing [Code-kata exercices](https://www.codewars.com/) which I store in [this](https://github.com/maksmondeo/code-kata) repo. 
-- 🌟 Member of [PyMasters](https://pymasters.pl/) - where we learn advanced Python skills by developing in a team using Git.
-- 👷🏻‍♂️ Currently contributing to [Reddit clone in Django](https://github.com/pymasterspl/reddit)
+- 💼 Currently working at [Blockwise](https://blockwise.pl/) as a Junior Python Dev - training various types of LLMs
+- 👥 Worked as a freelancer for over a year - successfully completed web developement projects with various clients.
+- 🚀 I'm studying Computer Science at the Lublin University of Technology. (3rd year)
+- 🛠️ I practice algorythmic skills in Python by doing [Code-kata exercices](https://www.codewars.com/) which I store in [this](https://github.com/maksmondeo/code-kata) repo. 
+- 🌟 Member of [PyMasters](https://pymasters.pl/) - where we learn advanced Python skills by developing in a team of ambitious devs.
+
   
  </td><td valign="top" width="30%" align="center">
 
